@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @banercat
+- 👋 Hi, I’m Sam
 - 👀 I’m interested in theoretical physics, and currently quantum computing.
 - 🌱 I’m currently learning quantum error correction.
 
